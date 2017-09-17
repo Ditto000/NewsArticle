@@ -1,0 +1,27 @@
+.HeadContainer {
+	text-align: center;
+	color: blue;
+	font-family: serif;
+}
+.secondRow {
+	font-family: serif;
+	text-transform: capitalize;
+}
+.thirdRow {
+	font-family: serif;
+}
+.image {
+	text-align: center;
+}
+body {
+	border: 5px solid white;
+}
+@media (max-width: 600px) {
+			img {
+					display: none;
+				}
+
+				p {
+					color: blue;
+				}
+			}
