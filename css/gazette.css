@@ -24,4 +24,8 @@ body {
 				p {
 					color: blue;
 				}
+			nav {
+					display: none;
+			}
+
 			}
